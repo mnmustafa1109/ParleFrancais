@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_family">Family</string>
+    <string name="category_colours">Colours</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_phrases">Phrases</string>
+
+
+</resources>
